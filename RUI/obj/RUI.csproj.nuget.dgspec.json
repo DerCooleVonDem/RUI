@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jonas/RiderProjects/RUI/RUI/RUI.csproj": {}
+  },
+  "projects": {
+    "/home/jonas/RiderProjects/RUI/RUI/RUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jonas/RiderProjects/RUI/RUI/RUI.csproj",
+        "projectName": "RUI",
+        "projectPath": "/home/jonas/RiderProjects/RUI/RUI/RUI.csproj",
+        "packagesPath": "/home/jonas/.nuget/packages/",
+        "outputPath": "/home/jonas/RiderProjects/RUI/RUI/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/home/jonas/.local/share/godot/mono/GodotNuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/jonas/.nuget/NuGet/NuGet.Config",
+          "/home/jonas/.nuget/NuGet/config/Godot.Offline.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Raylib-cs": {
+              "target": "Package",
+              "version": "[4.2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.0, 7.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

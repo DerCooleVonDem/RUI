@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1k6jTr6cAWmDON7SaRXBHRBUWiuM1F61JCJKLsgoFW0GnX9iahjRK+NjvGmqUW7+6/oRXCMYnurybJFuYiitDw==",
+  "success": true,
+  "projectFilePath": "/home/jonas/RiderProjects/RUI/RUI/RUI.csproj",
+  "expectedPackageFiles": [
+    "/home/jonas/.nuget/packages/raylib-cs/4.2.0.1/raylib-cs.4.2.0.1.nupkg.sha512",
+    "/home/jonas/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/jonas/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
